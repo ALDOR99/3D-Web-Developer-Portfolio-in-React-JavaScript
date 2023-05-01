@@ -1,2 +1,3 @@
 # Durum-Rapor:Proje Devam Etmekte.
-<img src="/">
+<img src="/durumRapor.png">
+<img src="/durumRapor.gif">
