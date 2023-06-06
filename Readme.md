@@ -1,3 +1,3 @@
 # Durum-Rapor:Proje Devam Etmekte.
-<img src="/durumRapor.png">
-<img src="/durumRapor.gif">
+<img src="githubÖnİzleme/İsimsiz video ‐ Clipchamp ile yapıldı (1).gif">
+<img src="/">
