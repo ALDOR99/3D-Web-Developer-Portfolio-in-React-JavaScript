@@ -1,4 +1,4 @@
-
+#deneme yazısıdır
 <img src="githubÖnİzleme/İsimsiz video ‐ Clipchamp ile yapıldı (1).gif">
 <img src="githubÖnİzleme/1x.png">
 <img src="githubÖnİzleme/2x.png">
